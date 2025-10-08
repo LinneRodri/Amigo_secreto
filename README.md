@@ -1,6 +1,6 @@
-<h1>Amigo Secreto 💻</h1>
+<h1>Amigo Secreto</h1>
 
-<p>🎯 Este projeto foi desenvolvido como parte de um desafio da Oracle em parceria com a Alura. O objetivo principal deste desafio é fortalecer habilidades em lógica de programação, criando uma aplicação simples de sorteio de amigo secreto.</p>
+<p>Este projeto foi desenvolvido como parte de um desafio da Oracle em parceria com a Alura. O objetivo principal deste desafio é fortalecer habilidades em lógica de programação, criando uma aplicação simples de sorteio de amigo secreto.</p>
 
 <h1>Funcionalidades💻</h1>
 <p>Sortear um amigo secreto aleatoriamente.</p>
